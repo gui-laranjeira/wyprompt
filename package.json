@@ -1,0 +1,15 @@
+{
+  "name": "wyprompt",
+  "version": "1.0.0",
+  "description": "Prompting tool for better productivity",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "gui-laranjeira",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^28.1.3"
+  }
+}
